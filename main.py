@@ -7,4 +7,3 @@ def test(name):
 
 if __name__ == '__main__':
     test('PyChar1m')
-
